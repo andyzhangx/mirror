@@ -7,7 +7,12 @@
 
 site="https://127.0.0.1:6001/v2/_catalog"
 if [ $# -eq 1 ]; then
-	site=$1
+        site=$1
 fi
 
-/usr/bin/curl --insecure -s $site | grep repositories | awk -F ',' '{print NF}'
+/usr/bin/curl --insecure -s $site | grep \"repositories\": -q
+if [ $? != 0 ]; then
+        echo "-1"
+fi
+
+/usr/bin/curl --insecure -s $site | grep \"repositories\": | awk -F ',' '{print NF}'
