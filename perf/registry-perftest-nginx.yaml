@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: registry-perftest-nginx
+  labels:
+    k8s-app: perftest
+spec:
+  selector:
+    matchLabels:
+      name: perftest
+  template:
+    metadata:
+      labels:
+        name: perftest
+    spec:
+      containers:
+      - name: registry-perftest-nginx
+        image: dockerhub.akscn.io/library/nginx
+        imagePullPolicy: Always

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: registry-perftest-postgres
+  labels:
+    k8s-app: perftest
+spec:
+  selector:
+    matchLabels:
+      name: perftest
+  template:
+    metadata:
+      labels:
+        name: perftest
+    spec:
+      containers:
+      - name: registry-perftest-postgres
+        image: dockerhub.akscn.io/library/postgres
+        imagePullPolicy: Always
