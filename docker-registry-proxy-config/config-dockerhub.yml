@@ -10,7 +10,7 @@ storage:
     delete:
         enabled: true
 http:
-    addr: :5001
+    addr: :5000
     secret: asecretforproduction
     headers:
         X-Content-Type-Options: [nosniff]
