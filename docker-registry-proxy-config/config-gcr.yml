@@ -8,7 +8,7 @@ storage:
     filesystem:
         rootdirectory: /var/lib/registry
 http:
-    addr: :6001
+    addr: :6000
     secret: asecretforproduction
     headers:
         X-Content-Type-Options: [nosniff]
