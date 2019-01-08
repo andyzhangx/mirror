@@ -1,0 +1,4 @@
+dockerhub.azk8s.cn/microsoft/oms:ciprod10162018-2
+dockerhub.azk8s.cn/library/nginx
+deis/kube-svc-redirect:v1.0.2
+deis/hcp-tunnel-front:v1.9.2-v4.0.4
