@@ -1,1 +1,3 @@
 mcr.microsoft.com/k8s/flexvolume/blobfuse-flexvolume
+mcr.microsoft.com/k8s/csi/azuredisk-csi
+mcr.microsoft.com/k8s/csi/azurefile-csi
