@@ -18,3 +18,4 @@ gcr.azk8s.cn/google_containers/pause-amd64:3.1
 gcr.azk8s.cn/google_containers/metrics-server-amd64:v0.2.1
 gcr.azk8s.cn/google_containers/addon-resizer:1.8.1
 gcr.azk8s.cn/google_containers/exechealthz-amd64:1.2
+gcr.azk8s.cn/google_containers/kube-addon-manager-amd64:v8.6
