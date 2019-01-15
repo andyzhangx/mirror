@@ -3,3 +3,4 @@ dockerhub.azk8s.cn/microsoft/samples-tf-mnist-demo:gpu
 dockerhub.azk8s.cn/library/nginx
 dockerhub.azk8s.cn/deis/kube-svc-redirect:v1.0.2
 dockerhub.azk8s.cn/deis/hcp-tunnel-front:v1.9.2-v4.0.4
+dockerhub.azk8s.cn/prom/node-exporter:v0.15.2
