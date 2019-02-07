@@ -1,4 +1,5 @@
 dockerhub.azk8s.cn/microsoft/oms:ciprod10162018-2
+dockerhub.azk8s.cn/microsoft/oms:ciprod01092019
 dockerhub.azk8s.cn/microsoft/samples-tf-mnist-demo:gpu
 dockerhub.azk8s.cn/library/nginx
 dockerhub.azk8s.cn/deis/kube-svc-redirect:v1.0.2
