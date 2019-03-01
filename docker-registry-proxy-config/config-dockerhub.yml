@@ -14,10 +14,8 @@ http:
     secret: asecretforproduction
     headers:
         X-Content-Type-Options: [nosniff]
-health:
-    storagedriver:
+compatibility:
+  schema1:
     enabled: true
-    interval: 10s
-    threshold: 3
 proxy:
     remoteurl: {remoteurl}
