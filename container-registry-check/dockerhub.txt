@@ -7,3 +7,4 @@ dockerhub.azk8s.cn/deis/hcp-tunnel-front:v1.9.2-v4.0.4
 dockerhub.azk8s.cn/deis/hcp-tunnel-front:v1.9.2-v4.0.5
 dockerhub.azk8s.cn/prom/node-exporter:v0.15.2
 dockerhub.azk8s.cn/bitnami/wordpress:5.1.0
+dockerhub.azk8s.cn/bitnami/mariadb:10.1.37
