@@ -1,3 +1,1 @@
-mcr.microsoft.com/k8s/flexvolume/blobfuse-flexvolume
-mcr.microsoft.com/k8s/csi/azuredisk-csi
-mcr.microsoft.com/k8s/csi/azurefile-csi
+dockerhub.azk8s.cn/deis/hcp-tunnel-front:v1.9.2-v4.0.5
