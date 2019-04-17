@@ -8,3 +8,4 @@ dockerhub.azk8s.cn/prom/node-exporter:v0.15.2
 dockerhub.azk8s.cn/bitnami/wordpress:5.1.0
 dockerhub.azk8s.cn/bitnami/wordpress:5.1.1
 dockerhub.azk8s.cn/bitnami/mariadb:10.1.37
+dockerhub.azk8s.cn/microsoft/azure-cli:2.0.61
