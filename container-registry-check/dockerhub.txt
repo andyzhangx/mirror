@@ -9,3 +9,5 @@ dockerhub.azk8s.cn/bitnami/wordpress:5.1.0
 dockerhub.azk8s.cn/bitnami/wordpress:5.1.1
 dockerhub.azk8s.cn/bitnami/mariadb:10.1.37
 dockerhub.azk8s.cn/microsoft/azure-cli:2.0.61
+dockerhub.azk8s.cn/postgres:9.6
+dockerhub.azk8s.cn/bitnami/redis:4.0.11-debian-9
