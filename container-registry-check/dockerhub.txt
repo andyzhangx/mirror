@@ -1,6 +1,7 @@
 dockerhub.azk8s.cn/microsoft/oms:ciprod10162018-2
 dockerhub.azk8s.cn/microsoft/oms:ciprod01092019
 dockerhub.azk8s.cn/library/nginx
+dockerhub.azk8s.cn/library/postgres:9.6
 dockerhub.azk8s.cn/deis/kube-svc-redirect:v1.0.2
 dockerhub.azk8s.cn/deis/hcp-tunnel-front:v1.9.2-v4.0.4
 dockerhub.azk8s.cn/deis/hcp-tunnel-front:v1.9.2-v4.0.5
@@ -9,5 +10,4 @@ dockerhub.azk8s.cn/bitnami/wordpress:5.1.0
 dockerhub.azk8s.cn/bitnami/wordpress:5.1.1
 dockerhub.azk8s.cn/bitnami/mariadb:10.1.37
 dockerhub.azk8s.cn/microsoft/azure-cli:2.0.61
-dockerhub.azk8s.cn/postgres:9.6
 dockerhub.azk8s.cn/bitnami/redis:4.0.11-debian-9
