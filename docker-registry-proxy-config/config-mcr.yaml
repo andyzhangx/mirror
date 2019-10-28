@@ -1,0 +1,19 @@
+version: 0.1
+log:
+  fields:
+    service: registry
+storage:
+    cache:
+        blobdescriptor: inmemory
+    filesystem:
+        rootdirectory: /var/lib/registry
+http:
+    addr: :8000
+    secret: asecretforproduction
+    headers:
+        X-Content-Type-Options: [nosniff]
+compatibility:
+  schema1:
+    enabled: true
+proxy:
+    remoteurl: {remoteurl}
