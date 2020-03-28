@@ -8,8 +8,6 @@ mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.17.0
 mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.16.4
 mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.16.1
 mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.15.7
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.15.5
+mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.15.10
 mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.14.8
 mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.14.7
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.13.12
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.13.11
