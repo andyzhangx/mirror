@@ -1,13 +1,6 @@
 mcr.azk8s.cn/k8s/csi/azuredisk-csi
-mcr.azk8s.cn/k8s/csi/azuredisk-csi:v0.5.0
+mcr.azk8s.cn/k8s/csi/azuredisk-csi:v1.11.0
 mcr.azk8s.cn/k8s/csi/azurefile-csi
-mcr.azk8s.cn/k8s/csi/azurefile-csi:v0.4.0
+mcr.azk8s.cn/k8s/csi/azurefile-csi:v1.11.0
 mcr.azk8s.cn/k8s/csi/blobfuse-csi
-mcr.azk8s.cn/oss/kubernetes/hyperkube-amd64:v1.14.5
 mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.17.0
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.16.4
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.16.1
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.15.7
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.15.10
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.14.8
-mcr.azk8s.cn/oss/kubernetes/hyperkube:v1.14.7
